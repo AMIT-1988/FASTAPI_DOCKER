@@ -1,0 +1,32 @@
+{
+    "data": {
+      "id": 1,
+      "name": "Europe",
+      "code": "EU"
+    },
+    "subscription": [
+      {
+        "meta": [],
+        "plans": [
+          {
+            "plan": "Football Free Plan",
+            "sport": "Football",
+            "category": "Standard"
+          },
+          {
+            "plan": "Cricket Free Plan",
+            "sport": "Cricket",
+            "category": "Standard"
+          }
+        ],
+        "add_ons": [],
+        "widgets": []
+      }
+    ],
+    "rate_limit": {
+      "resets_in_seconds": 3583,
+      "remaining": 178,
+      "requested_entity": "Continent"
+    },
+    "timezone": "UTC"
+  }
